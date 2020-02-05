@@ -6,3 +6,4 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+  * [Day 2](/Week_2/Day_2)
