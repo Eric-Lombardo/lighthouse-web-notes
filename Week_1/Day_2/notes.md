@@ -1,7 +1,8 @@
 # day 2 notes
+# [teacher's notes](https://github.com/Eric-Lombardo/lhl-w1d2)
 
 ## for ... of loops
-  * you can do this with  arrays strings and objects. Even nesting them like you would with a traditional for loop. It's a good alternative if you don't need to use the index number that a normal for loop would have available.
+  * you can do this with  arrays and strings. Even nesting them like you would with a traditional for loop. It's a good alternative if you don't need to use the index number that a normal for loop would have available.
   ``` Javascript
   for (let element of arr) {
     console.log(element);
