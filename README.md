@@ -33,3 +33,8 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * package.json and package-lock.json
     * testing (unit, integration, functional)
     * MOCHA and CHAI
+* [Week 2](/Week_2)
+  * [Day 1](/Week_2/Day_1)
+    * testing with mocha/chai
+  * [Day 2](/Week_2/Day_2)
+    * async 
