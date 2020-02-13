@@ -38,3 +38,10 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * testing with mocha/chai
   * [Day 2](/Week_2/Day_2)
     * async 
+  * [Day3](/Week_2/Day_3)
+    * TCP
+    * HTTP
+    * client/server
+    * built-in require("net")
+    * events
+    * NPM request
