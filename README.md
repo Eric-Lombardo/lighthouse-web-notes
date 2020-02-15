@@ -45,3 +45,17 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * built-in require("net")
     * events
     * NPM request
+  * [Day 4](/Week2/Day_4)
+    * JSON
+    * json.parse and json.stringify
+    * exception
+    * promises
+    * TRY and CATCH
+  * [Day 5](/Week2/Day_5)
+    * OOP
+    * OOP best practices
+    * constructors
+    * classes
+    * superclass and sub-class
+    * methods
+    * GET and SET
