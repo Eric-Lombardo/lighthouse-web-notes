@@ -59,3 +59,8 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * superclass and sub-class
     * methods
     * GET and SET
+  * [WE 2](/Week_2/WE)
+    * express and node
+    * cURL
+    * character enconding
+    * DNS
