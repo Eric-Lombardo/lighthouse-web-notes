@@ -64,3 +64,20 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * cURL
     * character enconding
     * DNS
+* [Week 3](/Week_3)
+  * [Day 1](/Week_3/Day_1)
+    * servers
+    * stateful stateless
+    * node server
+    * express
+    * EJS
+    * templates
+    * CRUD
+    * safe and unsafe methods
+    * idempotent
+    * forms
+    * routes
+    * body-parser npm
+    * header
+    * http verbs
+    * cookies
