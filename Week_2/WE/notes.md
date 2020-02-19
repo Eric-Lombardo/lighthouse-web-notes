@@ -56,6 +56,12 @@ The document has moved
 * If a website you want to download from needs a username and password to view the resource you can pass the `-u` flag like this:
 `curl -u username:password URL` 
 
+* `curl -x POST` specifies the HTTP request method of either post, get etc.
+
+* `curl -d` used to send data
+
+* `curl -b` specifies a cookie
+
 * <strong>More [info](https://www.thegeekstuff.com/2012/04/curl-examples/) on cURL</strong>
 
 ## character encoding & character set

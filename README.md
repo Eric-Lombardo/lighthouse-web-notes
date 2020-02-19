@@ -81,3 +81,8 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * header
     * http verbs
     * cookies
+  * [Day 2](/Week_3/Day_2)
+    * nodemon
+    * forms
+    * git branch
+    * cookies
