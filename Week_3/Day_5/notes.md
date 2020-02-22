@@ -31,5 +31,13 @@
   2. then move onto roots children
   3. then move onto those nodes children
   * basically level by level top - down
+  ![breath first](https://github.com/Eric-Lombardo/lighthouse-web-notes/blob/master/docs/20200222_115608.jpg?raw=true)
 * depth first traversal:
   1. starts at the root node and chooses left or right and goes all the way down to a leaf node then goes back to parent and takes the next path
+  ![depth first](https://github.com/Eric-Lombardo/lighthouse-web-notes/blob/master/docs/20200222_115614.jpg?raw=true)
+* breath and depth are the two most common ways to traverse a tree
+
+## subtrees
+* sub trees are just zoomed-in trees of a particular node
+* every node is a "root" node of a subtree
+* even a leaf node is a "root" node of a sub tree with zero children
