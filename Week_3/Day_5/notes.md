@@ -1,4 +1,5 @@
 # w3 - d5
+* [teacher notes](https://github.com/Eric-Lombardo/lectures-2020-mtl-feb03/tree/master/w2d3)
 
 ## apps and app data
 * apps are all about data. you can delete an app's code but if the data is still there and safe an app can be recoded to access that secure data
@@ -41,3 +42,4 @@
 * sub trees are just zoomed-in trees of a particular node
 * every node is a "root" node of a subtree
 * even a leaf node is a "root" node of a sub tree with zero children
+![subtrees](https://github.com/Eric-Lombardo/lighthouse-web-notes/blob/master/docs/20200222_120552.jpg?raw=true)

@@ -1,4 +1,7 @@
 # w2 - d4
+
+* [teacher notes](https://github.com/Eric-Lombardo/lectures-2020-mtl-feb03/tree/master/w2d4)
+
 ## JSON
 * JSON = javascript object notation
 * a collection of name/values

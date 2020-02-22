@@ -86,3 +86,17 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * forms
     * git branch
     * cookies
+  * [Day 3](/Week_3/Day_3)
+    * https
+    * cookies
+    * forms
+  * [Day 4](/Week_3/Day_4)
+    * REST
+    * middelware
+    * separating routes from server.js (modularity)
+  * [Day 5](/Week_3/Day_5)
+    * app and app data
+    * trees
+    * traversing trees
+    * sub trees
+  
