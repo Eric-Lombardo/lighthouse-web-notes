@@ -1,5 +1,7 @@
 # W4 D1
 
+* [teacher notes](https://github.com/Eric-Lombardo/w4d1_2020-02-24)
+
 ## AJAX
 * its not a programming language but tisa  technique for accessing web servers from a webpage.
 * stands for ASYNCHRONOUS JAVASCRIPT AND XML

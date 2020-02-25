@@ -107,4 +107,15 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * bubbling and capturing
     * click events
     * ajax
-  
+* [Week 4](/Week_4)
+  * [day 1](/Week_4/Day_1)
+    * ajax
+    * semantic html
+    * CSS
+      * normalize
+      * content-box border-box
+      * selctors
+    * helper apps (lorem ipsum, placekitten)
+    * float, flexbox, position
+    * padding margin
+    * ids and classes
