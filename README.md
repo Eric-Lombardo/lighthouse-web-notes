@@ -99,4 +99,12 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * trees
     * traversing trees
     * sub trees
+  * [WE 3](/Week_3/WE)
+    * mean stack
+    * event driven architecture
+    * dom
+    * jquery
+    * bubbling and capturing
+    * click events
+    * ajax
   
