@@ -119,3 +119,26 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * float, flexbox, position
     * padding margin
     * ids and classes
+  * [day 2](/Week_4/Day_2)
+    * DOM creation
+    * breakpoints in code
+    * get elemnents by tag name
+    * event handlers
+  * [day 3](/Week_4/Day_3)
+    * Ajax
+    * jquery with ajax
+    * prevent cross site scripting
+  * [day 4](/Week_4/Day_4)
+    * vw, px, em, rem
+    * strategy of when to use each
+    * responsive design
+    * flexbox
+    * design patterns
+    * media queries
+    * DESIGN FRONT-END TOOLS
+  * [day 5](/Week_4/Day_5)
+    * BIG 0
+    * algorithms
+    * time complexity/run time
+    * elemntrary operations
+    * binary/linear search
