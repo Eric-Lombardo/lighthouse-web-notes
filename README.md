@@ -142,3 +142,10 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * time complexity/run time
     * elemntrary operations
     * binary/linear search
+  * [WE 4](/Week_4/WE_4)
+    * rdbms
+    * sql (crud operations)
+    * relational dbs
+    * tables
+    * entity relationship
+    * priamry/foreign keys
