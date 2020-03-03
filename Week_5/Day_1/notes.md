@@ -18,6 +18,7 @@
 * after createion to enter into it type: `\c [name-of-db]`
 * `\l` (lowercase L) to see all databases on the server
 * `\dt` to show all tables in current connected DB
+* `\d [tableName]` will show you what that tbale looks liek with all columns and data types
 
 ## inserting already-made files as data
 * create fake data in external .sql file
