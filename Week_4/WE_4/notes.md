@@ -18,6 +18,7 @@ Relational database management systems (RDBMS)
   username VARCHAR(100)
 );`
   * for id's the data type shuld be `INTGER PRIMARY KEY` by adding `AUTOINCREMENT` to `INTGER PRIMARY KEY AUTOINCREMENT` you no longer need to specify the id for every new entry and the sytem will automatically add an id one bigger than the curretn largest id
+  * THE AUTO-INCREMNT feature in POSTGRESQL is `SERIAL PRIMARY KEY`. the keyword `SERIAL` is a pseudo-class for integer that is never null and will increase automatically btu the value type is still an `INTEGER`
 ### Insert a record (the Create operation in CRUD)
   * `INSERT INTO users (full_name, username)
 VALUES ("Boris Hadjur", "_DreamLead");`

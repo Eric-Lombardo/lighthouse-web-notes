@@ -15,10 +15,10 @@
 * to enter database type: `psql` in the terminal
 * to exit type: `\q`
 * to create a db type: `CREATE DATABASE [name-of-db];`
-* after createion to enter into it type: `\c [name-of-db]`
+* after creation to enter into it type: `\c [name-of-db]`
 * `\l` (lowercase L) to see all databases on the server
 * `\dt` to show all tables in current connected DB
-* `\d [tableName]` will show you what that tbale looks liek with all columns and data types
+* `\d [tableName]` will show you what that table looks liek with all columns and data types
 
 ## inserting already-made files as data
 * create fake data in external .sql file

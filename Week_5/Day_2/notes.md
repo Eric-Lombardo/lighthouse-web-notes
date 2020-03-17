@@ -1,5 +1,8 @@
 ## W5 - D2
 
+* [TEACHER NOTES](https://github.com/FrancisBourgouin/lectures-2020-mtl-feb03/tree/master/w5d2)
+* [LECTURE RECORDING](https://www.youtube.com/watch?v=4HeN56P_05M&feature=youtu.be)
+
 ## TABLE DEFAULT VALUES
 * when creating a table you can set default values example
 ```sql

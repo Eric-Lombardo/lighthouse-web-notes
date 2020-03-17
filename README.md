@@ -149,3 +149,30 @@ This repository contains all of the notes taken by [Eric](https://github.com/Eri
     * tables
     * entity relationship
     * priamry/foreign keys
+* [Week 5](/Week_5)
+  * [day 1](/Week_5/Day_1)
+    * Everything database
+      * style/convention
+      * order
+      * postgresql
+      * joins
+      * nesting
+  * [day 2](/Week_5/Day_2)
+    * everything ERD
+      * normailization
+      * primary/foreign keys
+      * bridge tables
+  * [day 3](/Week_5/Day_3)
+    * everything PSQL
+      * all BREAD operations
+      * data types for PSQL
+  * [day 5](/Week_5/Day_5)
+    * mideterm project kickoff
+* [Week 7](/Week_7)
+  * [day 1](/Week_7/Day_1)
+    * React basics
+    * jsx rules
+    * short circuit/ conditonal rendering
+    * fragments intro
+    * hook rules
+  
